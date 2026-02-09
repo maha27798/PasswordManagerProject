@@ -1,5 +1,4 @@
-<img width="1920" height="1200" alt="Screenshot 2026-02-09 193004" src="https://github.com/user-attachments/assets/f8d2b3cc-53b6-4a70-9c4a-6ae71bb8e534" />
-# **Ultimate Dark Mode Password Manager**
+  # **Ultimate Dark Mode Password Manager**
 
 ## **Project Description**
 
